@@ -1,0 +1,30 @@
+Test Case 1:
+Input: 2nd Phase, 374/B, 80 Feet Rd, Mysore Bank Colony, Banashankari 3rd Stage, Srinivasa Nagar, Bengaluru, Karnataka 560050
+Output: PIN code is correct and matches the address elements.
+Test Case 2:
+Input: 2nd Phase, 374/B, 80 Feet Rd, Bank Colony, Banashankari 3rd Stage, Srinivasa Nagar, Bengaluru, Karnataka 560050
+Ouput: PIN code is correct and matches the address elements.
+Test Case 3:
+Input: 374/B, 80 Feet Rd, State Bank Colony, Banashankari 3rd Stage, Srinivasa Nagar, Bangalore. 560050
+Output: PIN code is correct and matches the address elements.
+Test Case 4:
+Input: 2nd Phase, 374/B, 80 Feet Rd, Mysore Bank Colony, Banashankari 3rd Stage, Srinivasa Nagar, Bengaluru, Karnataka 560095
+Output: PIN code is incorrect for the provided address elements.
+Test Case 5:
+Input: Colony, Bengaluru, Karnataka 560050
+Output: PIN code is incorrect for the provided address elements.
+Test Case 6:
+Input: Clarence Public School Jp nagar 3rd phase bangalore 560078
+Output: PIN code is correct and matches the address elements.
+Test Case 7:
+Input: Sri Maruthi Socity layout Guruappanpalaya tavarekere Bangalore 560029
+Output: PIN code is correct and matches the address elements.
+Test Case 8:
+Input:  No 31, 4th main Vasanthnagar Bangalore 560053
+Output: PIN code is incorrect for the provided address elements.
+Test Case 9:
+Input:  No 9, 2nd main sri maruthi society layout btm 1st stage 560015
+Output: PIN code is incorrect for the provided address elements.
+Test Case 10:
+Input:  #57, 4th main HBR lapout venkateshapura 560045
+Ouput: PIN code is correct and matches the address elements.
